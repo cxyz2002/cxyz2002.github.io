@@ -3,7 +3,7 @@
     <title>Cxy&#x27;s blog</title>
     <link href="https://cxyz2002.github.io/feed.xml" rel="self" />
     <link href="https://cxyz2002.github.io" />
-    <updated>2024-06-23T08:33:11+08:00</updated>
+    <updated>2024-06-23T08:57:44+08:00</updated>
     <author>
         <name>Cxy</name>
     </author>
@@ -20,12 +20,12 @@
         <updated>2024-06-23T08:33:11+08:00</updated>
             <summary>
                 <![CDATA[
-                    测试文字
+                    测试文字。测试文字
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>测试文字</p>
+                <p>测试文字。测试文字</p>
             ]]>
         </content>
     </entry>
