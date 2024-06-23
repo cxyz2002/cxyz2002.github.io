@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Cxy&#x27;s blog",
+    "description": "",
+    "home_page_url": "https://cxyz2002.github.io",
+    "feed_url": "https://cxyz2002.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Cxy"
+    },
+    "items": [
+        {
+            "id": "https://cxyz2002.github.io/test.html",
+            "url": "https://cxyz2002.github.io/test.html",
+            "title": "test",
+            "summary": "测试文字",
+            "content_html": "<p>测试文字</p>",
+            "author": {
+                "name": "Cxy"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-06-23T08:33:11+08:00",
+            "date_modified": "2024-06-23T08:33:11+08:00"
+        }
+    ]
+}

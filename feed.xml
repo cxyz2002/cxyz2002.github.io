@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Cxy&#x27;s blog</title>
+    <link href="https://cxyz2002.github.io/feed.xml" rel="self" />
+    <link href="https://cxyz2002.github.io" />
+    <updated>2024-06-23T08:33:11+08:00</updated>
+    <author>
+        <name>Cxy</name>
+    </author>
+    <id>https://cxyz2002.github.io</id>
+
+    <entry>
+        <title>test</title>
+        <author>
+            <name>Cxy</name>
+        </author>
+        <link href="https://cxyz2002.github.io/test.html"/>
+        <id>https://cxyz2002.github.io/test.html</id>
+
+        <updated>2024-06-23T08:33:11+08:00</updated>
+            <summary>
+                <![CDATA[
+                    测试文字
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>测试文字</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
