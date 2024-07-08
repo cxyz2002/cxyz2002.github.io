@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://cxyz2002.github.io/note4.html",
+            "url": "https://cxyz2002.github.io/note4.html",
+            "title": "Note",
+            "summary": "自我感动&hellip;",
+            "content_html": "<h4 class=\"md-end-block md-heading md-focus\"><span class=\"md-plain md-expand\">自我感动</span></h4>\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">其实关于自我感动这个概念或是话题，我们其实已经在过去很多的笔记里面撰写过了，今天重新谢写一下，将它发出来。</span></p>\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">其实</span><span class=\"md-pair-s \"><strong><span class=\"md-plain\">自我感动</span></strong></span><span class=\"md-plain\">在我身上也一直很常见，例如说，在过去我总是觉得只要把书籍拿起来了，放在桌子上，随意扫视几眼，这便考研称得上是阅读了。然后一个人一杯水，就可以在桌子前坐上一天，时不时再翻阅一下手机。但是，当我回头再反思这一天的时候，却发现，这样做效率依旧很低，甚至完全是自我感动式的学习和阅读。</span></p>\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">举个例子讲，当晚上躺在床上再回想这些事情的时候，那我白天到底看了些什么呢？到底什么是墨子的“三表法”，孟子的“求放心”和他所说的“养浩然之气”，到底说了些什么，我依旧是一概不知。</span></p>\n<p class=\"md-end-block md-p md-focus\"><span class=\"md-plain\">当然，这就牵扯到一个关于阅读效率的问题。但是很多时候，人们坐在自己的桌子前，或是躺在床上，只是用心在享受着这样一种过程，即人又时间从自己的身边流过。无效率的阅读 ，在很多的时候，等同于其他的娱乐和消遣的方式，它们在</span><span class=\"md-pair-s \"><strong><span class=\"md-plain\">本质</span></strong></span><span class=\"md-plain\">上都是一样的。只不过是某些中人，原意给自己当前的行为赋予一种崇高的意义上去。</span></p>\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">进一步讲，这种自我感动，也可能是出于一种自我中心的可能。我们将自己假定为当前状况的中心，在哪里，自己便是整个世界的中心，整个世界都围绕着我一个人转，所有的人都是自己的观众，在无时无刻在注视着自己。换句话说，是自己虚构出来了一个欣赏自己的观众，在欣赏着自己的表演，甚至有的时候，这种观众都不需要实体的存在，只需要自己一个人在哪里自导自演。</span></p>\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">而在图书馆的时候，这一点尤其明显，一些人脑海永远在想，“看，我今天在这里待了这么久，在他们的眼中，我一定非常非常努力刻苦”。人们总是无时无刻不在预想着来自他者的回应。</span></p>\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">所以，在图书馆从早待到晚，更多的是一种仪式，或者是形式。学习什么反而对他们变得不重要了，因为在他们的无意识里面，那种可以带来自我满足感和完满感的</span><span class=\"md-pair-s \"><strong><span class=\"md-plain\">形式感</span></strong></span><span class=\"md-plain\">与</span><span class=\"md-pair-s \"><strong><span class=\"md-plain\">仪式感</span></strong></span><span class=\"md-plain\">才是最重要的。毕竟在前者里面，他们以及成功了，沉浸在自我感动的喜悦的海洋里面。</span></p>\n<p class=\"md-end-block md-p md-focus\"><span class=\"md-plain md-expand\">同样的，这种仪式，或者是形式也曾是他们花了大功夫才营造起来的。其核心就是形成一种心理的稳态，不用费心费神，不用殚精竭虑，只需随意的，漫不经心的浏览就行了。毕竟追根究底是会带来痛苦的，自我感动就是用来抵消它们所带来的那种折磨。</span></p>",
+            "author": {
+                "name": "Cxy"
+            },
+            "tags": [
+                   "随笔记录"
+            ],
+            "date_published": "2024-07-08T15:13:40+08:00",
+            "date_modified": "2024-07-08T15:14:57+08:00"
+        },
+        {
             "id": "https://cxyz2002.github.io/note3.html",
             "url": "https://cxyz2002.github.io/note3.html",
             "title": "Suggestion",
@@ -22,7 +37,7 @@
                    "效率干货"
             ],
             "date_published": "2024-06-23T23:25:55+08:00",
-            "date_modified": "2024-06-23T23:44:13+08:00"
+            "date_modified": "2024-07-08T15:13:56+08:00"
         },
         {
             "id": "https://cxyz2002.github.io/note2.html",
@@ -37,7 +52,7 @@
                    "效率干货"
             ],
             "date_published": "2024-06-23T16:24:33+08:00",
-            "date_modified": "2024-06-23T23:43:59+08:00"
+            "date_modified": "2024-07-08T15:12:55+08:00"
         },
         {
             "id": "https://cxyz2002.github.io/note1.html",
@@ -52,7 +67,7 @@
                    "随笔记录"
             ],
             "date_published": "2024-06-23T08:33:11+08:00",
-            "date_modified": "2024-06-23T23:44:23+08:00"
+            "date_modified": "2024-07-08T15:13:01+08:00"
         }
     ]
 }
